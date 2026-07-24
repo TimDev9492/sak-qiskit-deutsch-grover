@@ -1,11 +1,10 @@
-# SAK Qiskit: Deutsch-Jozsa & Grover
+# 🚀 Open the notebooks in Google Colab
 
-Learning resources and solutions for the Deutsch-Jozsa and Grover's algorithms, written in Qiskit for SAK Disentis 2026.
+> ### [▶ Open `deutsch_jozsa.ipynb` in Google Colab](https://colab.research.google.com/github/TimDev9492/sak-qiskit-deutsch-grover/blob/main/deutsch_jozsa.ipynb)
+>
+> ### [▶ Open `grover.ipynb` in Google Colab](https://colab.research.google.com/github/TimDev9492/sak-qiskit-deutsch-grover/blob/main/grover.ipynb)
 
-## Opening in Google Colab
-
-- [Open `deutsch_jozsa.ipynb` in Colab](https://colab.research.google.com/github/TimDev9492/sak-qiskit-deutsch-grover/blob/main/deutsch_jozsa.ipynb)
-- [Open `grover.ipynb` in Colab](https://colab.research.google.com/github/TimDev9492/sak-qiskit-deutsch-grover/blob/main/grover.ipynb)
+**No installation required — click a link and run the notebook directly in your browser.**
 
 ### Or follow these instructions:
 
